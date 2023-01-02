@@ -8,3 +8,6 @@ Mindful MakeR
 -
 - Nodemcu -> preferences-> Additional Boards, http://arduino.esp8266.com/staging/package_esp8266com_index.json
 - Nodemcu -> SDA = D1 = GPIO5, SCL = D2 = GPIO4
+
+
+![aa-28](https://user-images.githubusercontent.com/79086623/210213309-6679f742-be7e-49d8-a050-4828a3f9bb4d.png)
