@@ -1,6 +1,6 @@
 Mindful MakeR
 
-- Arduino IDE, https://www.arduino.cc/
+- Arduino IDE, https://www.arduino.cc/en/software/
 -
 - Manage Libraries..., Ctrl + Shift + I
 - OLED 128x64 -> install adafruit SSD1306, adafruit GFX Library
